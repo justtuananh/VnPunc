@@ -1,0 +1,1 @@
+{"bert_model": "FPTAI/vibert-base-cased", "do_lower": true, "max_seq_length": 190, "num_labels": 10, "label_map": {"1": "O", "2": "PERIOD", "3": "COMMA", "4": "COLON", "5": "QMARK", "6": "EXCLAM", "7": "SEMICOLON", "8": "[CLS]", "9": "[SEP]"}}
